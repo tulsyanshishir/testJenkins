@@ -1,2 +1,2 @@
 
-println("Building services: ${services}")
+println("Hello")
